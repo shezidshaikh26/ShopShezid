@@ -384,7 +384,7 @@ footer li:hover{color:#fff}
       </div>
       <div class="product-info">
         <div class="product-category">T-Shirts</div>
-        <h3>Oversized Core Tee</h3>
+        <h3>oversized hoodie</h3>
         <div class="price">₹1,599</div>
       </div>
     </article>
