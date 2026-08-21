@@ -406,10 +406,10 @@ Shopshezid
         <div class="logo">SHEZID</div>
 
         <ul class="nav-links">
-            <li><a href="#">HOME</a></li>
+            <li><a href="#">MEN</a></li>
             <li><a href="#collections">COLLECTIONS</a></li>
-            <li><a href="#shop">SHOP</a></li>
-            <li><a href="#about">ABOUT</a></li>
+            <li><a href="#t-shirts">T-SHIRT</a></li>
+            <li><a href="#hoodies">HOODIES</a></li>
         </ul>
 
         <div class="icons">
